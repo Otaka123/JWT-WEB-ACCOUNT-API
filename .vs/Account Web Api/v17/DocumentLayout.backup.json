@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|e:\\programing\\learn\\api\\c.vprojects\\task and project collaboration system\\accountweb api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|e:\\programing\\learn\\api\\c.vprojects\\task and project collaboration system\\accountweb api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|e:\\programing\\learn\\api\\c.vprojects\\task and project collaboration system\\accountweb api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|e:\\programing\\learn\\api\\c.vprojects\\task and project collaboration system\\accountweb api\\validators\\datevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|solutionrelative:validators\\datevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|e:\\programing\\learn\\api\\c.vprojects\\task and project collaboration system\\accountweb api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|e:\\programing\\learn\\api\\c.vprojects\\task and project collaboration system\\accountweb api\\models\\seed\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|solutionrelative:models\\seed\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|e:\\programing\\learn\\api\\c.vprojects\\task and project collaboration system\\accountweb api\\dto\\requestdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|solutionrelative:dto\\requestdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|e:\\programing\\learn\\api\\c.vprojects\\task and project collaboration system\\accountweb api\\dto\\requestdto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|solutionrelative:dto\\requestdto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|e:\\programing\\learn\\api\\c.vprojects\\task and project collaboration system\\accountweb api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFA393B7-B8B5-49EB-9D24-98F759FA1FE1}|Task and Project Collaboration System.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DateValidation.cs",
+              "DocumentMoniker": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\Validators\\DateValidation.cs",
+              "RelativeDocumentMoniker": "Validators\\DateValidation.cs",
+              "ToolTip": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\Validators\\DateValidation.cs",
+              "RelativeToolTip": "Validators\\DateValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:47:37.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\Models\\Seed\\Seed.cs",
+              "RelativeDocumentMoniker": "Models\\Seed\\Seed.cs",
+              "ToolTip": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\Models\\Seed\\Seed.cs",
+              "RelativeToolTip": "Models\\Seed\\Seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:36:10.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:23:54.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\DTO\\RequestDTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RequestDTO\\RegisterDTO.cs",
+              "ToolTip": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\DTO\\RequestDTO\\RegisterDTO.cs",
+              "RelativeToolTip": "DTO\\RequestDTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:10:05.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginUserDTO.cs",
+              "DocumentMoniker": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\DTO\\RequestDTO\\LoginUserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RequestDTO\\LoginUserDTO.cs",
+              "ToolTip": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\DTO\\RequestDTO\\LoginUserDTO.cs",
+              "RelativeToolTip": "DTO\\RequestDTO\\LoginUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:10:02.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T21:25:30.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T21:19:24.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAIgBAAAAAAAAAAAqwDcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:23:27.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\programing\\learn\\API\\c.vprojects\\Task and Project Collaboration System\\AccountWeb Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAIBZwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:20:22.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

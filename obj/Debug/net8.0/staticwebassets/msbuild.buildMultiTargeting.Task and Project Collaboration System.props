@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Task and Project Collaboration System.props" />
+</Project>

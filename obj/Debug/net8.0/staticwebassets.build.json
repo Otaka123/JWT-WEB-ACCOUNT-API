@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dqtkENmqTMwNxpAMhUunT42uLFoHDvqQ12R5faEM7fY=",
+  "Source": "Account Web Api",
+  "BasePath": "_content/Account Web Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

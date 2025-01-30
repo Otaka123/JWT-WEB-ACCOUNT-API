@@ -1,0 +1,160 @@
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\appsettings.Development.json
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\appsettings.json
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Task and Project Collaboration System.staticwebassets.endpoints.json
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Task and Project Collaboration System.exe
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Task and Project Collaboration System.deps.json
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Task and Project Collaboration System.runtimeconfig.json
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Task and Project Collaboration System.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Task and Project Collaboration System.pdb
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\Task and Project Collaboration System.csproj.AssemblyReference.cache
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\Task and Project Collaboration System.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\Task and Project Collaboration System.AssemblyInfoInputs.cache
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\Task and Project Collaboration System.AssemblyInfo.cs
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\Task and Project Collaboration System.csproj.CoreCompileInputs.cache
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\Task and Project Collaboration System.MvcApplicationPartsAssemblyInfo.cs
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\Task and Project Collaboration System.MvcApplicationPartsAssemblyInfo.cache
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\scopedcss\bundle\Task and Project Collaboration System.styles.css
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\staticwebassets.build.json
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\staticwebassets.development.json
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\staticwebassets\msbuild.Task and Project Collaboration System.Microsoft.AspNetCore.StaticWebAssets.props
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\staticwebassets\msbuild.Task and Project Collaboration System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\staticwebassets\msbuild.build.Task and Project Collaboration System.props
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task and Project Collaboration System.props
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task and Project Collaboration System.props
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\staticwebassets.pack.json
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\Task and.0110A079.Up2Date
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\Task and Project Collaboration System.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\refint\Task and Project Collaboration System.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\Task and Project Collaboration System.pdb
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\Task and Project Collaboration System.genruntimeconfig.cache
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\obj\Debug\net8.0\ref\Task and Project Collaboration System.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Azure.Core.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Azure.Identity.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Humanizer.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.CodeDom.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Memory.Data.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Google.Apis.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Google.Apis.Auth.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Google.Apis.Core.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Management.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\programing\learn\API\c.vprojects\Task and Project Collaboration System\Task and Project Collaboration System\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
